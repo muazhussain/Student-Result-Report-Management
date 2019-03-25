@@ -3,9 +3,9 @@ Student result & report management project is based on a concept of recording st
 This program uses features of object oriented programming and file handling of C++. In order to store all the students data, an external file (DAT file) is created by the system, so every the program into the system, it can operate with the existing record.
 
 Program Structure:  This program consists of the following steps:
- *First it shows the main menu & let the user decide to choose an option 
- *Then from the choice the program shows the sub-menu and do the task the user commands to perform
- *Finally the program shows the user the updated information
+ * First it shows the main menu & let the user decide to choose an option 
+ * Then from the choice the program shows the sub-menu and do the task the user commands to perform
+ * Finally the program shows the user the updated information
 ```cpp
 
 //***********************//
